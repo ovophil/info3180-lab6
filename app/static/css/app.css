@@ -5,3 +5,11 @@ body {
 footer  {
     padding-top: 20px;
 }
+.news{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+h2{
+    margin-left: 50px;
+}
